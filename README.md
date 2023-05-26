@@ -18,13 +18,13 @@ The package provides a `SizeSplitter` which creates chunks of equal size and it 
 `go-btfs-chunker` works like a regular Go module:
 
 ```
-> go get github.com/TRON-US/go-btfs-chunker
+> go get github.com/bittorrent/go-btfs-chunker
 ```
 
 ## Usage
 
 ```
-import "github.com/TRON-US/go-btfs-chunker"
+import "github.com/bittorrent/go-btfs-chunker"
 ```
 
 ## Contribute

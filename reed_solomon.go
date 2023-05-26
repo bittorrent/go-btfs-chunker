@@ -7,7 +7,7 @@ import (
 	"io"
 	"io/ioutil"
 
-	"github.com/TRON-US/go-btfs-files"
+	"github.com/bittorrent/go-btfs-files"
 	rs "github.com/klauspost/reedsolomon"
 )
 
